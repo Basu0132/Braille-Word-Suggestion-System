@@ -45,7 +45,7 @@ python braille_suggester.py --lang EN --dict words.txt
 
 Example Session
 
-$ python braille_suggester.py --lang EN --dict words.txt
+$ python word_suggestion.py --lang EN --dict words.txt
 Enter Braille input (contractions or QWERTY like 'asdf'): asdf
 
  Real-time typed word suggestions:
