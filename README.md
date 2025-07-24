@@ -21,7 +21,7 @@ Persistence: Remembers user-selected words across sessions by saving frequencies
 
 Braille contractions: Supports Grade 2 contractions (e.g., ⠮ → THE).
 
-QWERTY mappings: Maps keys a,s,d,f,j,k to Braille dots 1–6.
+QWERTY mappings: Maps keys q, w, d, k, o, and p. to Braille dots 1–6.
 
 Multilingual: Switch between languages (e.g., EN, HI) via --lang.
 
